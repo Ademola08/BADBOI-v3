@@ -23,14 +23,14 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2348140825959']
-global.ownMain = '2348140825959'
+global.owner = ['2349121056093']
+global.ownMain = '2349121056093'
 global.NamaOwner = '𝓑𝓐𝓓𝓑𝓞𝓘' //gausah diganti 
 global.sessionName = 'badboisession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𝓑𝓐𝓓𝓑𝓞𝓘-𝐕3' //ganti aj klo mau
-global.author = '𝓑𝓐𝓓𝓑𝓞𝓘' //ganti aj klo mau
-global.packname = '𝓑𝓐𝓓𝓑𝓞𝓘 𝙱𝚘𝚝' //ganti aj klo mau
+global.author = '📺|テレビ' //ganti aj klo mau
+global.packname = 'suhail-md❤' //ganti aj klo mau
 global.yt = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x' //gausah diganti
 
 //===========================//
